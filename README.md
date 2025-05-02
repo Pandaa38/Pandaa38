@@ -3,8 +3,8 @@
 
 - 📫 How to reach me **juanrechea@gmail.com**
 
-- What I'm doing? [Studying Maths and Computer Science](Studying Maths and Computer Science)
-
+- What I'm doing? Studying Maths and Computer Science
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/juanrechea_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juanrechea_" height="30" width="40" /></a>
