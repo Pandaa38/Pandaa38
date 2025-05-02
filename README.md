@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Juan</h1>
 <h3 align="center">Student in University of Granada</h3>
 
