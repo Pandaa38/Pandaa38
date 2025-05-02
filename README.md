@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juan</h1>
 <h3 align="center">Student in University of Granada</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pandaa38" alt="pandaa38" /></a> </p>
-
 - 📫 How to reach me **juanrechea@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -16,4 +14,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pandaa38&show_icons=true&locale=en&layout=compact" alt="pandaa38" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pandaa38&show_icons=true&locale=en" alt="pandaa38" /></p>
-
